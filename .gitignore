@@ -1,0 +1,7 @@
+# Editor / IDE
+.vscode/
+.DS_Store
+
+# AI
+.worktrees/
+.claude/
